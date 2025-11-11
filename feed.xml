@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>STRUCK ME LIKE A CHORD</title>
+    <link href="https://bcw2744-sudo.github.io/struckmelikeachord/feed.xml" rel="self" />
+    <link href="https://bcw2744-sudo.github.io/struckmelikeachord" />
+    <updated>2025-11-11T18:10:02-05:00</updated>
+    <author>
+        <name>Benji</name>
+    </author>
+    <id>https://bcw2744-sudo.github.io/struckmelikeachord</id>
+
+    <entry>
+        <title>Post 1</title>
+        <author>
+            <name>Benji</name>
+        </author>
+        <link href="https://bcw2744-sudo.github.io/struckmelikeachord/post-1.html"/>
+        <id>https://bcw2744-sudo.github.io/struckmelikeachord/post-1.html</id>
+
+        <updated>2025-11-11T18:10:02-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

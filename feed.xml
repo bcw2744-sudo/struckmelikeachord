@@ -3,21 +3,22 @@
     <title>STRUCK ME LIKE A CHORD</title>
     <link href="https://struckmelikeachord.com/feed.xml" rel="self" />
     <link href="https://struckmelikeachord.com" />
-    <updated>2025-11-11T18:10:02-05:00</updated>
+    <updated>2025-11-12T16:58:51-05:00</updated>
     <author>
         <name>Benji</name>
     </author>
     <id>https://struckmelikeachord.com</id>
 
     <entry>
-        <title>Post 1</title>
+        <title>IN CONVERSATION WITH BRANDON TONG</title>
         <author>
             <name>Benji</name>
         </author>
-        <link href="https://struckmelikeachord.com/post-1.html"/>
-        <id>https://struckmelikeachord.com/post-1.html</id>
+        <link href="https://struckmelikeachord.com/in-conversation-with-brandon-tong.html"/>
+        <id>https://struckmelikeachord.com/in-conversation-with-brandon-tong.html</id>
+        <media:content url="https://struckmelikeachord.com/media/posts/5/Brandon28-copy.jpg" medium="image" />
 
-        <updated>2025-11-11T18:10:02-05:00</updated>
+        <updated>2025-11-12T16:58:51-05:00</updated>
             <summary></summary>
         <content></content>
     </entry>

@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "STRUCK ME LIKE A CHORD",
     "description": "",
-    "home_page_url": "https://bcw2744-sudo.github.io/struckmelikeachord",
-    "feed_url": "https://bcw2744-sudo.github.io/struckmelikeachord/feed.json",
+    "home_page_url": "https://struckmelikeachord.com",
+    "feed_url": "https://struckmelikeachord.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Benji"
     },
     "items": [
         {
-            "id": "https://bcw2744-sudo.github.io/struckmelikeachord/post-1.html",
-            "url": "https://bcw2744-sudo.github.io/struckmelikeachord/post-1.html",
+            "id": "https://struckmelikeachord.com/post-1.html",
+            "url": "https://struckmelikeachord.com/post-1.html",
             "title": "Post 1",
             "author": {
                 "name": "Benji"
